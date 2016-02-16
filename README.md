@@ -112,13 +112,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-[badgeNpm]: https://img.shields.io/npm/v/asar-cli/master.svg?style=flat-square
+[badgeNpm]: https://img.shields.io/npm/v/asar-cli.svg?style=flat-square
 [badgeLicense]: https://img.shields.io/npm/l/asar-cli.svg?style=flat-square
 [badgeDownloads]: https://img.shields.io/npm/dt/asar-cli.svg?style=flat-square
 [badgedDependencies]: https://img.shields.io/david/bwin/asar-cli/master.svg?style=flat-square
 [badgeCoverage]: https://img.shields.io/coveralls/bwin/asar-cli/master.svg?style=flat-square
 [badgeBuild]: https://img.shields.io/travis/bwin/asar-cli/master.svg?style=flat-square
-[linkNpm]: https://npmjs.org/package/asar-cli/master
+[linkNpm]: https://npmjs.org/package/asar-cli
 [linkDependencies]: https://david-dm.org/bwin/asar-cli/master
 [linkCoverage]: https://coveralls.io/bwin/asar-cli/master
 [linkBuild]: https://travis-ci.org/bwin/asar-cli/master
